@@ -1,4 +1,4 @@
-# Temperature Measurement using LM35 and AVR Microcontroller
+# Temperature Measurement using AVR Microcontroller
 # Features
 * Displays OF TEMPRATURE.
 * Automatically detect the temperature.
