@@ -1,1 +1,1 @@
-# M2_EMB
+# M2_Temperature Measurement using AVR Microcontroller
