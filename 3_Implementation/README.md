@@ -1,1 +1,1 @@
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/109a5e3af09e4e9293148a6cc1514278)](https://www.codacy.com/gh/ak12345569/M2_Temperature-Measurement-using-AVR-Microcontroller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ak12345569/M2_Temperature-Measurement-using-AVR-Microcontroller&amp;utm_campaign=Badge_Grade)
