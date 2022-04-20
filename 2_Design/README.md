@@ -6,7 +6,7 @@
 ![IMAGE2](https://user-images.githubusercontent.com/101049933/164284056-ca10aec3-d2d3-4e87-826a-98faa9ab3e97.PNG)
 # Bill of Materials:
 Circuit: heat sensor.simu
- * Capacitor-44 : Capacitor 100 uF
+ * Capacitor-44 : Capacitor 100 nF
  * display : Hd44780   
  * Temperature sensor :DHT11 Temperature & Humidity Sensor (this sensor is mimic by Potentiometer)   
  * microcontroller : atmega32   
