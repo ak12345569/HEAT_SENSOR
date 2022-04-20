@@ -11,4 +11,6 @@
 |---------|-------------|--------|---------|-------|
 |L_01	|Change Temprature |change voltage|	As Needed|	Implemented|
 # Output
-![HEAT_SENSOR_1](https://user-images.githubusercontent.com/101049933/163728612-2e113c67-a8f9-4f9a-beaa-a7c5b5916964.png)
+![IMAGE1](https://user-images.githubusercontent.com/101049933/164285148-19480976-cb10-444e-9741-4f85a28473ed.PNG)
+
+![IMAGE2](https://user-images.githubusercontent.com/101049933/164285030-0007aa9c-2ddd-4ccc-8ccd-0bab06246aac.PNG)
