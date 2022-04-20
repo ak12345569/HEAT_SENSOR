@@ -1,7 +1,0 @@
-Bill of Materials:
-Circuit: heat sensor.simu
-Capacitor-17 : Capacitor 100 nF
-Capacitor-44 : Capacitor 100 uF
-display : Hd44780   
-Temperature sensor : DHT11 Temperature & Humidity Sensor (this sensor is mimic by voltage regulator)   
-microcontroller : atmega32   
