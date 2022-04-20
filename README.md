@@ -1,5 +1,8 @@
 
 # M2_Temperature Measurement using AVR Microcontroller
+| Build  | cpp check    | codacy|codiga|
+| ------------- | ------------- | ------------- | ------------- | 
+|                |              |![codiga badge](https://api.codiga.io/project/32890/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/109a5e3af09e4e9293148a6cc1514278)](https://www.codacy.com/gh/ak12345569/M2_Temperature-Measurement-using-AVR-Microcontroller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ak12345569/M2_Temperature-Measurement-using-AVR-Microcontroller&amp;utm_campaign=Badge_Grade)|
 # Introduction
 This is an user temprature measurement project developed from zero.The temprature measurement circuit marks temprature from room temprature to 255 degree ceslcius, using an ATMEGA32 microcontroller. The temprature measurement circuit mark from room temprature, in the moment that it's powered. To maximum temprature of surrounding.
 # Folder Structure
@@ -12,5 +15,5 @@ This is an user temprature measurement project developed from zero.The tempratur
 |5_Report  |Complete report of project    | 
 | 6_Images and Videos   | Images and videos related to project| 
 # Circuit Diagram
-![Capture3](https://user-images.githubusercontent.com/101049933/163730063-a864d178-58a8-4f24-964d-9782f721f7c4.PNG)
+![IMAGE2](https://user-images.githubusercontent.com/101049933/164290002-6ddd9267-d272-43d7-8640-d6a4945dcbc2.PNG)
 
