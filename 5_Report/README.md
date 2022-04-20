@@ -49,16 +49,17 @@ ID __________________________ Description
 LLR_01 __________________________ Circuit Design
 
 LLR_02 __________________________ Simulation
-# Structural Diagram
+# FLOWCHART 
 ![Flowchart-Temperature-Sensor](https://user-images.githubusercontent.com/101049933/163708123-4b4d71f0-fad2-4c6b-a5a2-168bf14dc937.png)
 # BLOCK DIGRAM
 ![BLOCK_DIGRAM](https://user-images.githubusercontent.com/101049933/163708441-31bd3f03-eec6-48b7-88da-dcef03b900ae.png)
 # SIMULATION
-![HEAT_SENSOR](https://user-images.githubusercontent.com/101049933/163708474-6a3ca0e7-c781-4735-bf1c-657149d4b40e.png)
+![IMAGE1](https://user-images.githubusercontent.com/101049933/164286055-3e16bf71-f74f-4add-a1ab-280370e6dd49.PNG)
+![IMAGE2](https://user-images.githubusercontent.com/101049933/164286109-3aabda91-9607-4c54-86f9-fee6673b8c1b.PNG)
+
 # Bill of Materials:
 Circuit: heat sensor.simu
  * Capacitor-17 : Capacitor 100 nF
- * Capacitor-44 : Capacitor 100 uF
- * display : Hd44780
+ * display : Hd44780 LCD DISPLAY
  * Temperature sensor :DHT11 Temperature & Humidity Sensor (this sensor is mimic by voltage regulator)
  * microcontroller : atmega32   
