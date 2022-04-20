@@ -1,13 +1,13 @@
 # Temperature Measurement using AVR Microcontroller
 # Features
-* Displays OF TEMPRATURE.
+* Displays OF TEMPERATURE.
 * Automatically detect the temperature.
 # 4W and 1H
-* What - Temperature Measurement circuit to measure the temprature.
+* What - Temperature Measurement circuit to measure the temperature.
 
 * Why - To get to know about electric circuits better.
 
-* When - Whenever needed, one should be able to see the temprature.
+* When - Whenever needed, one should be able to see the temperature.
 
 * Where - Wherever he is.
 
@@ -16,12 +16,12 @@
 # SWOT ANALYSIS
 Strengths
 
-* Real time temprature display.
+* Real time temperature display.
 * limited range
 
 Weakness
 
-* Not able to show negative temprature.
+* Not able to show negative temperature.
 * It's Very common.
 
 Opportunities
@@ -35,7 +35,7 @@ Threats
 # High Level Requirements
 ID __________________ Description _____________________ Category
 
-HLR_01 __________________ mimic the temprature sensor for simulation ___________ Software
+HLR_01 __________________ mimic the temperature sensor for simulation ___________ Software
 
 HLR_02 __________________ Understanding Atmega328 ___________________ Software
 
