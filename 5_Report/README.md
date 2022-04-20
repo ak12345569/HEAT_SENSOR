@@ -1,7 +1,8 @@
 # Temperature Measurement using AVR Microcontroller
+# ABSTRACT
+Temperature measurement in todays industrial environment encompasses a wide variety of needs andapplications. To meet this  wide array of needs the process controls industry has developed a large number of sensors and devices to handle this demand. Temprature is a very critical and widelymeasured variable for most mechanical engineers .
 # Introduction
 This is an user temprature measurement project developed from zero.The temprature measurement circuit  marks temprature from room temprature to 255 degree ceslcius, using an ATMEGA32 microcontroller. The temprature measurement circuit mark  from room temprature, in the moment that it's powered. To maximum temprature of surrounding. 
-# Temperature Measurement using AVR Microcontroller
 # Features
 * Displays OF TEMPRATURE.
 * Automatically detect the temperature.
@@ -26,13 +27,14 @@ Weakness
 
 * Not able to show negative temprature.
 It's Very common.
+
 Opportunities
 
 * Can add Alarm
 
 Threats
 
-*Can get broken easily.
+* Can get broken easily.
 
 # High Level Requirements
 ID __________________ Description _____________________ Category
