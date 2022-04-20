@@ -22,7 +22,8 @@ Strengths
 Weakness
 
 * Not able to show negative temprature.
-It's Very common.
+* It's Very common.
+
 Opportunities
 
 * Can add Alarm
