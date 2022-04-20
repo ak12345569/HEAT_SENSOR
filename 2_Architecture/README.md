@@ -8,7 +8,7 @@
 Circuit: heat sensor.simu
  * Capacitor-17 : Capacitor 100 nF
  * Capacitor-44 : Capacitor 100 uF
- * Hd44780-2 : Hd44780   
- * VoltReg-38 : VoltReg (LM35 mimic by voltage regulato)   
- * atmega32 : atmega32   
+ * display : Hd44780   
+ * Temperature sensor :DHT11 Temperature & Humidity Sensor (this sensor is mimic by voltage regulator)   
+ * microcontroller : atmega32   
 
