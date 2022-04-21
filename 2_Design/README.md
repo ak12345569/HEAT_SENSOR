@@ -8,6 +8,6 @@
 Circuit: heat sensor.simu
  * Capacitor-44 : Capacitor 100 nF
  * display : Hd44780   
- * Temperature sensor :DHT11 Temperature & Humidity Sensor (this sensor is mimic by Potentiometer)   
+ * Temperature sensor :DHT11 Temperature & Humidity Sensor
  * microcontroller : atmega32   
 
