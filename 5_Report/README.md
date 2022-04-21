@@ -61,5 +61,5 @@ LLR_02 __________________________ Simulation
 Circuit: heat sensor.simu
  * Capacitor-17 : Capacitor 100 nF
  * display : Hd44780 LCD DISPLAY
- * Temperature sensor :DHT11 Temperature & Humidity Sensor (this sensor is mimic by voltage regulator)
+ * Temperature sensor :DHT11 Temperature & Humidity Sensor
  * microcontroller : atmega32   
